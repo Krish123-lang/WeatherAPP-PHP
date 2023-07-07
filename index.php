@@ -17,7 +17,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 
-$api_key = '3fc8e4567b9148578ae55931232703';
+$api_key = 'Your_API_KEY';
 
 $url = "http://api.weatherapi.com/v1/current.json?key=$api_key&q=$location";
 
