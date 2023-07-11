@@ -19,7 +19,6 @@ The easiest way of installation is to use [XAMPP](https://www.apachefriends.org/
 5. You may see some errors 😂, please ignore them and type your place name in the text box and click submit.
 6. You must see the above like page filled with information.
 7. That's it.
-8. I WILL BE USING `SPOTIFY WEB API` IN MY NEXT PROJECT. 
 9. THANK YOU 🙏
 
 https://github.com/Krish123-lang/WeatherAPP-PHP/assets/56486342/34078059-1a3e-46be-bb7a-397e3f5186c6
